@@ -1,0 +1,15 @@
+{
+  "fastq_file_upstream":
+  {
+    "location":  "/Volumes/ExtHDD/test_smRNAseq/DRR013035.fastq",
+    "class": "File"
+  },
+  "adapters_file":
+  {
+    "location":  "/Users/yukawamasashi/workspace/cwl/workflows/masashi/data/Adaptors-SE.fa",
+    "class": "File"
+  },
+  "lib_type": "SE",
+  "illuminaclip_step_param": "2:30:15",
+  "trigger": true
+}

@@ -1,0 +1,5 @@
+{
+  "input_fastq" : {"class": "File", "location": "/Volumes/ExtHDD/test_smRNAseq/DRR013035.fastq.bz2"},
+  "m": 16,
+  "b": ["TACAGTCCGACGATCTCGTATGCCGTCTTC", "CTACAGTCCGACGATCTCGTATGCCGTCTT", "TCGTATGCCGTCTTCTGCTTGAAAAAAAAA"]
+}

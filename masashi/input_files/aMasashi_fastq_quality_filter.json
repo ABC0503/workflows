@@ -1,0 +1,6 @@
+{
+  "fastq" : {"class": "File", "location": "/Users/yukawamasashi/workspace/cwl/small-rna-cwl/Adaptor_Trimed.fastq"},
+  "q": 20,
+  "p": 80,
+  "Q33": true
+}

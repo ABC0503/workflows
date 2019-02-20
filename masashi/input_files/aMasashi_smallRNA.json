@@ -1,0 +1,21 @@
+input_fastq:
+  class: File
+  path: /Volumes/ExtHDD/test_smRNAseq/DRR013035.fastq
+m__: 16
+b__: ["TACAGTCCGACGATCTCGTATGCCGTCTTC", "CTACAGTCCGACGATCTCGTATGCCGTCTT", "TCGTATGCCGTCTTCTGCTTGAAAAAAAAA"]
+
+
+fasta:
+  class: File
+  path: /Users/yukawamasashi/workspace/cwl/workflows/masashi/data/Adaptors-SE.fa
+
+/*
+indices_folder:
+  class: Directory
+  path: ./data/dm3_chr4/generated_inputs/indices/bowtie_dm3_chr4
+
+downstream_filelist:
+  class: File
+  path: ./data/dm3_chr4/main_inputs/fastq/chr4_100_chrM_25_mapped_reads/downstream.fastq
+
+ */

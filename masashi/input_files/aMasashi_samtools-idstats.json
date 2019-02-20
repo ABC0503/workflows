@@ -1,0 +1,4 @@
+{
+  "mapped_bam" : {"class": "File", "location": "/Volumes/ExtHDD/test_smRNAseq/Database/Bowtie2_index/mapped.sort.bam"},
+  "output_filename": "output.tsv"
+}

@@ -1,0 +1,8 @@
+input_fastq:
+  class: File
+  path: /Volumes/ExtHDD/test_smRNAseq/DRR013035.fastq
+m__: 16
+b__: ["TACAGTCCGACGATCTCGTATGCCGTCTTC", "CTACAGTCCGACGATCTCGTATGCCGTCTT", "TCGTATGCCGTCTTCTGCTTGAAAAAAAAA"]
+q__: 20
+p__: 80
+Q33__: true
